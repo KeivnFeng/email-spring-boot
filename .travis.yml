@@ -40,3 +40,8 @@ cache:
 env:
   global:
     - BUILDING_FOLDER="`pwd`/email-spring-boot-starter"
+
+notifications:
+  slack:
+    rooms:
+      secure: GrvP6y66TOOpmCR1IfePnW8i4hqO6fjyPtthE+MBVFxmUpwhXLSkHpKn8CIU8Osg1CjZJWp9RISxj6QigfSbNOEKUtKMa1VMe18xn3bORzwL/Q5RgPdhRQtojG2SRFzX6Jiq8j+INBGiguncEUUY/Za7z6MaJnGAk/wcuwlhkDZHS2iKszkmddsB6PdprF7kjp14bTYakgcodmxxHSYaOmM5LGVQdwSaidPrsr37rXlhvX0vnYZ/qap2we5VgSVQ4aj6PD9PVJMZMWI4wPnSFGXFcF2FxpXvL4he7Bm7OBFu/+xH5fMD1XQCKKmNPtHQnWsCg81v7PopYNEoqs1pD8xHY7gY8N+pHDizXmtKo57f66T6ReWMbyuf9Gb6ZNJ6MVO2BV+iJHefDRMsDKQfcPRjXkt+2gNVx/y/iw8rppOwlxTqbU5pAp7NMoejL73Wp8p7IRa/IfBKHZJftDuvHDN6QupFuXgNLxEgOivpb3WEYvZGvC+EXiWV9vDQRLBQMy5t/uD8dgpPcKIaVZ+46TXy9W79B6NdD1P5XeifRBMwt3M0i7HifR099tT32lrWs+jt9b5UUqYpWwCtE19Vr17y+9ZsvJCqdQFC1X4bpW4AetMqJAkbNk/DepFNGJIPhzbNOlQhstgowKD1+tiYVtpJVLdjf/+DQahWJSdJhGk=
